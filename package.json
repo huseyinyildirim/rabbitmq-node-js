@@ -1,0 +1,24 @@
+{
+  "name": "rabbitmq-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "publisher": "node publisher.js",
+    "consumer": "node consumer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huseyinyildirim/rabbitmq-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huseyinyildirim/rabbitmq-nodejs/issues"
+  },
+  "homepage": "https://github.com/huseyinyildirim/rabbitmq-nodejs#readme",
+  "dependencies": {
+    "amqplib": "^0.6.0"
+  }
+}
