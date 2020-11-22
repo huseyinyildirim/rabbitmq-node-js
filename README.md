@@ -1,4 +1,4 @@
-# Node.JS ile RabbitMQ
+# Node.js ile RabbitMQ
 
 Kullanılan Protokoller
 
